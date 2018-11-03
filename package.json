@@ -3,7 +3,7 @@
   "version": "2.9.4",
   "private": true,
   "proxy": "http://localhost:9000/",
-  "homepage": "http://technical.github.io/app",
+  "homepage": "https://technical.github.io/",
   "dependencies": {
     "antd": "^3.10.0",
     "antd-local-icon": "^0.1.3",
